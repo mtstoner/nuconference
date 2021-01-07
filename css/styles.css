@@ -1,0 +1,12 @@
+h1, h2, h3 {
+    font-family: 'Audiowide', cursive;
+}
+header h1, h2 {
+    color: #ffffff;
+    text-shadow: 2px 2px 5px #000000;
+}
+.jumbotron {
+    margin: 0;
+    padding : 30px;
+    background-image: linear-gradient(to left,#ffffff,#8e9ee8, #425fe3 )
+}
