@@ -10,3 +10,6 @@ header h1, h2 {
     padding : 30px;
     background-image: linear-gradient(to left,#ffffff,#8e9ee8, #425fe3 )
 }
+h3 {
+    color: rgb(47, 47, 214);
+}
